@@ -38,7 +38,7 @@
        android:paddingHorizontal="8dp"
        android:text="Loading..."
        android:textSize="16sp"
-       android:visibility="visible"
+       android:visibility="gone"
        app:layout_constraintBottom_toBottomOf="@+id/progressBar"
        app:layout_constraintEnd_toEndOf="parent"
        app:layout_constraintHorizontal_bias="0.614"
